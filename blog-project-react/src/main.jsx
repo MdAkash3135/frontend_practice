@@ -9,8 +9,8 @@ let vr = "hi";
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <App />
-    <Card />
-    <Card />
+    <Card titleTex="Card No: 01" detailExplanation="This Card to mark the day"/>
+   
     
   </StrictMode>
 );
