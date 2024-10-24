@@ -1,0 +1,12 @@
+.testpublic{
+    color: brown;
+}
+.card {
+    margin: 2px;
+    border: 0.1cm;
+    padding: 5px;
+    color: aqua;
+    background: #ffda77;
+    box-shadow: gray;
+    
+}

@@ -7,7 +7,9 @@ createRoot(document.getElementById('root')).render(
   
   <StrictMode>
     <App />
+    <div className='card'>
     <h1> Todo APP</h1>
     <p> Chatro League has  banned today {new Date().getFullYear()} </p>
+    </div>
   </StrictMode>,
 )
