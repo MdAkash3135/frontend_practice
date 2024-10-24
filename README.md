@@ -1,2 +1,2 @@
-# frontend
-Basic practice for html css and js
+# Frontend
+Self motivated Developer Practice Report.
