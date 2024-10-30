@@ -7,6 +7,8 @@ import Product from "./Components/Product.jsx";
 
 
 createRoot(document.getElementById("root")).render(
+
+  
   <StrictMode>
     <App />
   </StrictMode>
