@@ -9,7 +9,5 @@ import Product from "./Components/Product.jsx";
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <App />
-    <Card titleTex="Card No: 01" detailExplanation="This Card to mark the day"/>
-    <Product titleTex="Product" detailExplanation="You will Do it Insallah"/>
   </StrictMode>
 );
